@@ -1,7 +1,7 @@
 {
   "pages":[
-    "pages/tennis/tennis",
     "pages/index/index",
+    "pages/tennis/tennis",
     "pages/wxassert/wxassert",
     "pages/typescore/typescore",
     "pages/logs/logs"
